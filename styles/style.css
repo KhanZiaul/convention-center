@@ -1,19 +1,28 @@
-.background-1{
+*{
+    font-family: 'Poppins', sans-serif;
+}
 
+
+.background-1{
 background-image:url('../images/banner.png');
 background-repeat: no-repeat;
 background-size: cover;
 width: 100vw;
 height: 100vh;
 }
-.background-2{
-    
-    background-image: ;
 
+.background-2{
+    background-image:url('../images/baner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
 }
 
 .background-3{
-
-   background-image: ;
-    
+    background-image:url('../images/ban.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
 }
