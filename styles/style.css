@@ -6,23 +6,20 @@
 .background-1{
 background-image:url('../images/banner.png');
 background-repeat: no-repeat;
-background-size: cover;
-width: 100vw;
+background-position: center;
 height: 100vh;
 }
 
 .background-2{
-    background-image:url('../images/baner.jpg');
+    background-image:url('../images/baner.jpeg');
     background-repeat: no-repeat;
-    background-size: cover;
-    width: 100vw;
+    background-position: center;
     height: 100vh;
 }
 
 .background-3{
-    background-image:url('../images/ban.png');
+    background-image:url('../images/ban.jpeg');
     background-repeat: no-repeat;
-    background-size: cover;
-    width: 100vw;
+    background-position: center;
     height: 100vh;
 }
